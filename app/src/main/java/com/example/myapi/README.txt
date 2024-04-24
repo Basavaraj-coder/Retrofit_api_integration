@@ -14,7 +14,7 @@ Json to kotlin class
 
 3) Create a data class/ POJO class/MODEL class from the 2nd step
 
-4) Create a interface
+4) Create a interface and add method to it
 
 5) create a Retrofit builder instance
 6) get all data using enqueue(ctrl+shift+space for object callback method)
